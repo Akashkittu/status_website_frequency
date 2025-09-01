@@ -365,3 +365,11 @@ Implemented in `backend/heartbeat.js`.
 ---
 
 
+## Contributing
+
+Feel free to fork this repository, create a branch, and submit a pull request for improvements.
+
+
+## Contact
+
+For any queries, feel free to reach out at [akashburnwal550@gmail.com].
